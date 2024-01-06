@@ -1,8 +1,5 @@
 ## A guided Spotify Project with the Help of "Power BI Park" Youtube Channel
 
-🔥Ahmed's Portfolio
-🔗https://photos.google.com/share/AF1Qi...
-
 🔥Dataset
 🔗https://www.kaggle.com/datasets/nelgi...
 
